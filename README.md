@@ -7,6 +7,7 @@ The library provides functionality to store arbitrarily large integer and perfor
 __- Fast exponentiation,__
 
 __- GCD of 2 integers, and __
+
 __- Factorial of a number__
 
 
@@ -14,11 +15,8 @@ __- Factorial of a number__
 #### Steps to run the code:
 
 1. compile the code by: g++ main_bigInt.cpp -o obj
-
 2. run as: ./obj
-
 3. Enter an integer denoting the no. of testcases you want to run for
-
 4. Then enter 1 of 3 choices:
    - 1 (For Fast exponentiation), followed by 2 numbers
    
