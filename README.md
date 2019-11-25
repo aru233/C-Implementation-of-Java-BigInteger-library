@@ -4,11 +4,11 @@ Implementation of a large integer library, similar to what we have in Java as Bi
 
 The library provides functionality to store arbitrarily large integer and perform basic math operations. Operations implemented are:
 
-__- Fast exponentiation,__
+- Fast exponentiation,
 
-__- GCD of 2 integers, and__
+- GCD of 2 integers, and
 
-__- Factorial of a number__
+- Factorial of a number
 
 #### Steps to run the code:
 _______________________________________________________________________________________________________________________________
