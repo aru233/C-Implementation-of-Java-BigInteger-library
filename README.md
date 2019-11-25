@@ -1,10 +1,12 @@
 # C++-Implementation-of-Java-BigInteger-library
 
 Implemented a large integer library, similar to what we have in Java as BigInteger. 
+
 The library provides functionality to store arbitrarily large integer and perform basic math operations. Operations implemented are:
---> Fast exponentiation,
---> GCD of 2 integers, and 
---> Factorial of a number
+**- Fast exponentiation,
+- GCD of 2 integers, and 
+**- Factorial of a number**
+
 
 Steps to run the code:
 1-> compile the code by: g++ main_bigInt.cpp -o obj
